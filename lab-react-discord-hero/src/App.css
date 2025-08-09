@@ -74,6 +74,7 @@ header {
 
 #heroText {
   display: flex;
+  color: white;
 }
 
 #heroP {
